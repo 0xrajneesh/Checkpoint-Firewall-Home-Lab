@@ -1,5 +1,5 @@
 # Checkpoint-Firewall-Home-Lab
-Welcome to the Home-Lab Repository, a curated collection of home-lab setups designed to offer hands-on experience with various cybersecurity tools focusing on blue team activities. This repository includes detailed guides and exercises for setting up and exploring tools like Splunk, Wireshark, open-source Identity and Access Management (IAM) solutions (including Keycloak), and other essential blue team tools.   
+Welcome to the Checkpoint Firewall Home-Lab Repository. Transform your space into a Checkpoint Firewall Home Lab adventure! Our easy-to-follow diagram and setup instructions ensure a seamless journey for all skill levels. Dive into practical exercises, honing your skills in configuration, optimization, and real-world troubleshooting. Get ready to conquer security challenges and emerge with newfound expertise! 
 
 
 
