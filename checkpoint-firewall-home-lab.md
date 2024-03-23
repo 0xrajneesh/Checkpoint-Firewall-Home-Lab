@@ -47,7 +47,16 @@ In this Home Lab, we’ll learn to set up a Checkpoint firewall from scratch. Th
 -  **Metasploit Exploit Payload Detection**: Craft a Suricata rule to detect Metasploit exploit payload traffic based on unique signatures or payloads commonly used in exploits.  
 -  **Metasploit Reverse Shell Detection**: Develop a Suricata rule to detect Metasploit reverse shell connections by monitoring for outbound TCP connections to known attacker IP addresses.  
 -  **Metasploit Meterpreter Communication Detection**: Create a Suricata rule to detect Meterpreter communication activities by analyzing HTTP or TCP traffic with characteristic Meterpreter payloads.
-- **Metasploit Credential Harvesting Detection**: Formulate a Suricata rule to detect Metasploit credential harvesting activities by monitoring for specific LDAP or SMB traffic patterns indicative of credential theft.  
+- **Metasploit Credential Harvesting Detection**: Formulate a Suricata rule to detect Metasploit credential harvesting activities by monitoring for specific LDAP or SMB traffic patterns indicative of credential theft.
+
+## 🧑‍💻Excercises- Real-world Scenarios
+-  **Deploying Checkpoint in Bridge Mode**: Configure Checkpoint Firewall transparently for enhanced security without altering IP addresses, ensuring comprehensive threat protection.
+-  **Branch office to Data Center Server Access**: Establish secure connectivity between branch offices and data centers to ensure seamless access to critical resources while upholding robust security measures.
+-  **Allow uploading of credit cards numbers by finance and only over HTTPS**:  Enable secure credit card uploads for finance, enforcing HTTPS protocol to safeguard data integrity during transmission and comply with regulatory standards.
+-  **Block High-Risk Applications**: Proactively restrict access to high-risk applications to mitigate potential security threats and enhance network security posture.
+-  **Block downloading of sensitive medical information**:  Prevent downloading of sensitive medical data to uphold compliance with healthcare regulations and safeguard patient confidentiality.
+-  **Allow Facebook for HR**: Grant exclusive Facebook access to HR for internal communication and recruitment purposes while managing social media usage.
+- **Monitor all traffic of Tiktok**: Analyze TikTok traffic to detect threats, enforce acceptable use policies, and mitigate risks associated with the platform through comprehensive network monitoring. 
 
 
 
