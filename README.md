@@ -3,6 +3,8 @@
 ## ℹ️Overview
 
 In this Home Lab, we’ll learn to set up a Checkpoint firewall from scratch. This Lab will help you launch an attack with Nmap, Metasploit & custom scripts from Kali linux and defend your machine using a Checkpoint firewall.
+![Uploading Blue Sand White Beach Simple Watercolor Etsy Shop Banner.png…]()
+
 ## 🧮Requirements
 
 - **Hardware**:
