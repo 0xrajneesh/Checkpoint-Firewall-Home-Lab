@@ -4,6 +4,14 @@
 
 In this Home Lab, we’ll learn to set up a Checkpoint firewall from scratch. This Lab will help you launch an attack with Nmap, Metasploit & custom scripts from Kali linux and defend your machine using a Checkpoint firewall.
 ![Blue Sand White Beach Simple Watercolor Etsy Shop Banner](https://github.com/0xrajneesh/Checkpoint-Firewall-Home-Lab/assets/40385860/84592e52-3196-4082-823e-94aa851c13cc)
+In this home-lab, we will cover:
+- Requirement
+- Lab Diagram
+- Setting up the Checkpoint Firewall Home-lab
+- Excercises- Network-based attacks
+- Excercises- Real-world Scenarios
+- Live Training
+
 
 ## 🧮Requirements
 
@@ -59,4 +67,12 @@ In this Home Lab, we’ll learn to set up a Checkpoint firewall from scratch. Th
 -  **Block downloading of sensitive medical information**:  Prevent downloading of sensitive medical data to uphold compliance with healthcare regulations and safeguard patient confidentiality.
 -  **Allow Facebook for HR**: Grant exclusive Facebook access to HR for internal communication and recruitment purposes while managing social media usage.
 - **Monitor all traffic of Tiktok**: Analyze TikTok traffic to detect threats, enforce acceptable use policies, and mitigate risks associated with the platform through comprehensive network monitoring. 
+
+##  Need Training
+Learn to deploy Checkpoint from scratch, set up the home-lab, and perform the exercises. This training covers all the modules required to pass even CCSA exam and gain advanced security skills.
+- [Upcoming Live Training](https://learn.haxcamp.com/services/checkpoint-fw-live)
+
+
+
+
 
