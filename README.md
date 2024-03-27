@@ -6,7 +6,7 @@ In this Home Lab, we’ll learn to set up a Checkpoint firewall from scratch. Th
 ![Blue Sand White Beach Simple Watercolor Etsy Shop Banner](https://github.com/0xrajneesh/Checkpoint-Firewall-Home-Lab/assets/40385860/84592e52-3196-4082-823e-94aa851c13cc)
 In this home-lab, we will cover:
 - [Requirement](https://github.com/0xrajneesh/Checkpoint-Firewall-Home-Lab/blob/main/README.md#requirements)
-- Lab Diagram
+- [Lab Diagram](https://github.com/0xrajneesh/Checkpoint-Firewall-Home-Lab/blob/main/README.md#Lab Diagram)
 - Setting up the Checkpoint Firewall Home-lab
 - Excercises- Network-based attacks
 - Excercises- Real-world Scenarios
